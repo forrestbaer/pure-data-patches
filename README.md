@@ -1,6 +1,6 @@
 # Pure-Data/Plugdata Patches
 
-A collection of PD abstractions I've built and use.
+A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 
 - bjt-npn : BJT Transistor Abstraction
 - bounce~ : A bouncing signal, feed it a length
