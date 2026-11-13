@@ -1,0 +1,12 @@
+#N canvas 827 239 734 565 12;
+#X obj 291 228 inlet~;
+#X obj 317 273 abs~;
+#X obj 317 308 +~ 1;
+#X obj 291 345 /~;
+#X obj 291 383 outlet~;
+#X text 291 192 x/(1+abs(x)) \, this should be a gentler curve than tanh or atan;
+#X connect 0 0 1 0;
+#X connect 0 0 3 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 1;
+#X connect 3 0 4 0;
