@@ -2,7 +2,7 @@
 
 A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 
-- bjt-npn : BJT Transistor Abstraction
+- bjt-npn : BJT NPN Transistor Abstraction
 - bounce~ : A bouncing signal, feed it a length
 - capacitor : Resistor-Capacitor RC Filter, feed it uF and Resistance
 - every : bang every X
@@ -12,3 +12,4 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - scaleit : scale a float range to another float range
 - sigmoid~ : a softer tanh~
 - tapmult : tap-tempo with multiplier, kinda like a pll for bangs
+- wtosc~ : 64x256 sample 44.1khz wavetable loader/visualizer
