@@ -11,6 +11,7 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - lorenzfo~ : Lorenz Attractor with X, Y, Z outputs, LFO to audio rate
 - metal.noise~ : 4 phasors at different rates making noise for metal
 - mpd218 : Akai MPD218 controller abstraction
+- phase8~ : 8 stage phaser with regen
 - satcurve : draw, or pass a function to draw a waveshaping curve and listen
 - scaleit : scale a float range to another float range
 - slope : a simple A/D envelope with log/exp shaping, cycle, EOR and EOC bangs
