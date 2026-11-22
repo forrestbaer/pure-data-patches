@@ -2,6 +2,7 @@
 
 A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 
+- amen~ : An Amen break player/looper
 - bjt-npn : BJT NPN Transistor Abstraction
 - bounce~ : A bouncing signal, feed it a length
 - capacitor : Resistor-Capacitor RC Filter, feed it uF and Resistance
