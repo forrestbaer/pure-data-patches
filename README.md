@@ -7,6 +7,7 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - bounce~ : A bouncing signal, feed it a length
 - capacitor : Resistor-Capacitor RC Filter, feed it uF and Resistance
 - every : bang every X
+- lfsr~ : An 8 stage Linear Feedback Shift Register (lfsr)
 - lorenzfo~ : Lorenz Attractor with X, Y, Z outputs, LFO to audio rate
 - metal.noise~ : 4 phasors at different rates making noise for metal
 - mpd218 : Akai MPD218 controller abstraction
