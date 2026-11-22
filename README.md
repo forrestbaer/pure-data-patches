@@ -11,6 +11,7 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - mpd218 : Akai MPD218 controller abstraction
 - satcurve : draw, or pass a function to draw a waveshaping curve and listen
 - scaleit : scale a float range to another float range
+- slope : a simple A/D envelope with log/exp shaping, cycle, EOR and EOC bangs
 - sigmoid~ : a softer tanh~
 - tapmult : tap-tempo with multiplier, kinda like a pll for bangs
 - wtosc~ : 64x256 sample 44.1khz wavetable loader/visualizer
