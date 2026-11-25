@@ -14,6 +14,7 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - phase8~ : 8 stage phaser with regen
 - satcurve : draw, or pass a function to draw a waveshaping curve and listen
 - scaleit : scale a float range to another float range
+- scream!~ : humans screaming, sample player similar to amen~
 - slope : a simple A/D envelope with log/exp shaping, cycle, EOR and EOC bangs
 - sigmoid~ : a softer tanh~
 - tapmult : tap-tempo with multiplier, kinda like a pll for bangs
