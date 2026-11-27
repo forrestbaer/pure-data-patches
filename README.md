@@ -5,13 +5,16 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - amen~ : An Amen break player/looper
 - bjt-npn : BJT NPN Transistor Abstraction
 - bounce~ : A bouncing signal, feed it a length
+- burst : burst generator using ms, trigger and burst steps
 - capacitor : Resistor-Capacitor RC Filter, feed it uF and Resistance
 - every : bang every X
 - lfsr~ : An 8 stage Linear Feedback Shift Register (lfsr)
 - lorenzfo~ : Lorenz Attractor with X, Y, Z outputs, LFO to audio rate
+- lpg~ : A low-pass-gate I like the sound of, plucky
 - metal.noise~ : 4 phasors at different rates making noise for metal
 - mpd218 : Akai MPD218 controller abstraction
 - phase8~ : 8 stage phaser with regen
+- qenv~ : quadratic envelope, exponential, from acreil
 - satcurve : draw, or pass a function to draw a waveshaping curve and listen
 - scaleit : scale a float range to another float range
 - scream!~ : humans screaming, sample player similar to amen~
