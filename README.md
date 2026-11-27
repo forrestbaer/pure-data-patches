@@ -20,5 +20,6 @@ A collection of PD abstractions I've built and use. ELSE/Cyclone Required.
 - scream!~ : humans screaming, sample player similar to amen~
 - slope : a simple A/D envelope with log/exp shaping, cycle, EOR and EOC bangs
 - sigmoid~ : a softer tanh~
+- tapedelay~ : a simple tape-delay
 - tapmult : tap-tempo with multiplier, kinda like a pll for bangs
 - wtosc~ : 64x256 sample 44.1khz wavetable loader/visualizer
